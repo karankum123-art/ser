@@ -1,0 +1,9 @@
+opencv-python
+opencv-contrib-python
+face-recognition
+dlib
+numpy
+pillow
+imutils
+sqlite3-binary
+flask==2.2.5
